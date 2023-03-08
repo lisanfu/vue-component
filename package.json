@@ -1,0 +1,8 @@
+{
+  "name": "vue-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lisanfu/vue-component.git",
+  "author": "lisanfu <874359874@qq.com>",
+  "license": "MIT"
+}
